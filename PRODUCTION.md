@@ -1,5 +1,5 @@
 
-# 🚀 PRODUCTION SERVER SETUP GUIDE (Complete Hindi Explanation)
+#  PRODUCTION SERVER SETUP GUIDE 
 
 Yeh file aapko kabhi bhi production setup revise karne me help karegi. Har command ke sath uska matlab diya gaya hai.
 
