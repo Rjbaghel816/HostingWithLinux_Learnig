@@ -71,7 +71,9 @@ pm2 status
 ```bash
 sudo nano /etc/nginx/sites-available/default
 ```
-
+```
+ls /etc/nginx/sites-available/
+```
 Aur file me ye likho:
 
 ```nginx
